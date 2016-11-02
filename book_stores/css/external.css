@@ -1,0 +1,100 @@
+/* 
+    Document   : external
+    Created on : 07-May-2013, 11:51:19
+    Author     : abel
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+.head{
+
+   
+}
+.c8{
+   color:gray;
+/*padding-left: -20px;*/
+
+}
+
+.c7 {
+   color:gray;
+   background-color:#006699;
+/*   padding-left: 200px;*/
+
+
+    
+    }
+   .c8{
+   color:gray;
+margin-top: 10%;
+
+      
+}
+      .c9 {
+   color:gray;
+   margin-left:10%;
+  margin-top: 10%;
+  font-family: cursive;
+    font-size: 16px;
+    
+    }
+    
+      .c10 {
+   color:gray;
+/*   margin-left:10%;
+  margin-top: 10%;
+  font-family: cursive;
+    font-size: 16px;*/
+background-image: url('img/bd.jpg');
+
+    
+    }
+   
+    .fill{
+         color:gray;
+         background-color: gray;
+    }
+    .body1{
+        text-align: center;
+         font-family: cursive;
+    font-size: 20px;
+    
+    }
+    .body3{
+        text-align: center;
+         font-family:cursive;
+    font-size: 16px;
+    color: rgb(255,25,21);
+    
+    }
+    .body4{
+        text-align: center;
+         font-family:cursive;
+    font-size: 16px;
+    margin-left: 270px;
+    
+    }
+    .body5{
+        text-align: center;
+         font-family:cursive;
+    font-size: 16px;
+    width:300px;
+    }
+    .body6{
+        text-align: center;
+         font-family:cursive;
+    font-size: 16px;
+    margin-right: 550px;
+  
+    
+    }
+    
+    .copy{
+        text-align:left;
+        font-style: oblique;
+        font-size:10px;
+         font-family:fantasy;
+    }
